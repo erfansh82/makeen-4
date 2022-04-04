@@ -1,0 +1,22 @@
+correct_answer={
+"q1":"pizza",
+"q2":"blue",
+"q3":"esteghlal",
+"q4":"sharif",
+"q5":"benz",
+"q6":"farhad majidi",
+"q7":"saiid marouf",
+"q8":"football",
+"q9":"iphone",
+"q10":"dog",
+"q11":"villa",
+"q12":"hamed",
+"q13":"roz",
+"q14":"action",
+"q15":"pop",
+"q16":"reza bahram",
+"q17":"engineering",
+"q18":"tehran",
+"q19":"iran",
+"q20":"asia"
+}
